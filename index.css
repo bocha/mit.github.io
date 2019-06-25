@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+
+header {
+  padding: 35px;
+  background: white;
+}
+
+main {
+  max-width: 1000px;
+  margin: 35px auto;
+}
+
+main > div {
+  width: auto;
+  text-align: center;
+}
+
+iframe {
+  height: 800px;
+  width: 600px;
+  border: 0;
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+  padding: 15px;
+}
